@@ -1,0 +1,14 @@
+path: ./datasets/
+train: train/
+val: valid/
+test: test/
+
+nc: 2
+names: ['Enemy', 'Friendly']
+
+roboflow:
+  workspace: yt-hg4op
+  project: valo-nuuh1
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yt-hg4op/valo-nuuh1/dataset/1
